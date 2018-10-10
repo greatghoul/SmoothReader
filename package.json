@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "解放双眼，收听文字",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
